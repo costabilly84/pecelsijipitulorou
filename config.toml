@@ -1,0 +1,4 @@
+baseURL = "https://quoteslovergooju.vercel.app"
+languageCode = "en-us"
+title = "Simple Love Quotes "
+theme = "hugo-theme-minos"
